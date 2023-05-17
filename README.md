@@ -7,3 +7,6 @@ Aplicação web feita com Streamlit,Python e Pycaret.Feito com o modelo "model_f
 [ Projeto final EBAC ]  [https://youtu.be/240Po07XrEs]
 
 
+![Visualização do Vídeo](https://youtu.be/240Po07XrEs)
+
+
